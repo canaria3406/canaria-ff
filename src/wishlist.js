@@ -43,7 +43,7 @@ $(function() {
 			
 			//console.log('no wl'); 
 			window.alert("no wishlist");
-			//location.replace("https://google.com");
+			location.replace("https://ff.canaria.cc/");
 			
 		}
 		})
