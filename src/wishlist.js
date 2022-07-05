@@ -128,6 +128,6 @@ function resetMap(){
 
   }
   
-  image.src = 'src/FF39MAP01.jpg';
+  image.src = 'https://ff.canaria.cc/src/FF39MAP01.jpg';
 
 
