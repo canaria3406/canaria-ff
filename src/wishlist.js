@@ -105,6 +105,7 @@ image.onload = function() {
 	canvas.height = h;
 	context.drawImage(this, 0, 0, w, h);
 	context.fillStyle = 'rgba(255, 0, 0, 0.4)';
+	resetMap();
 }
 
 image.src = 'https://ff.canaria.cc/src/FF39MAP01.jpg';
